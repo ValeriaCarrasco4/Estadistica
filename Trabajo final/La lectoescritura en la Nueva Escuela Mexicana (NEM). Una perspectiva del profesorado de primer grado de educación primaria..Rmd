@@ -1,0 +1,441 @@
+---
+title: "La lectoescritura en la Nueva Escuela Mexicana. Una perspectiva del profesorado de primer grado de educación primaria"
+author: "Valeria Carrasco Morales"
+date: "2024-01-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Autoras:
+Monserrat Almora Olivares
+
+Valeria Carrasco Morales
+
+Aída López Jiménez
+
+Diana Paola Mendoza Domínguez
+
+Yejyejsi Ramírez Cruz 
+
+
+# Introducción
+
+El presente trabajo habla sobre la lectoescritura en la educación primaria desde una perspectiva del profesorado que está frente a grupo en primer grado, Del mismo modo, se investigó con un sustento teórico cuáles podrían ser las mejores metodologías que se adecuen al nuevo plan y programa de estudios vigente.
+
+
+# Planteamiento del problema 
+
+La adquisición de habilidades de lectoescritura se vuelve crucial durante el primer año de la escuela primaria, desempeñando un papel fundamental en el desarrollo educativo. Como señala Cassany (1995), es importante destacar que la lectura y la escritura no son meramente habilidades instrumentales, sino que actúan como medios de interacción y construcción social del conocimiento.
+
+Rebello, Fuligni y Brooks-Gunn (2006) explican que la lectoescritura en primer grado es un proceso multidimensional que abarca tanto la lectura como la escritura.
+Esta situación se convierte en un desafío debido a la necesidad de adaptarse a la Nueva Escuela Mexicana (NEM) y la falta de información específica al respecto.
+
+La investigación actual tiene como objetivo abordar una problemática de gran relevancia en el contexto educativo mexicano: los desafíos que enfrenta el profesorado al enseñar lectoescritura en el primer grado de primaria, especialmente en el marco de la Nueva Escuela Mexicana (NEM), así como su vinculación con los diversos campos formativos.
+
+
+# Justificación
+
+El aprendizaje de la lecto-escritura es fundamental en la vida del estudiantado, tanto en el ámbito personal, educativo y profesional, debido a que, al adquirir estas habilidades se nos permite comunicarnos a través de dos lenguajes, el oral y escrito.
+La SEP en el nuevo plan y programas de estudio de la NEM (2023) planteó que la adquisición de la lengua escrita cobra relevancia respecto de otros, porque comenzarán a formalizar la elaboración de ideas propias sobre las funciones y usos del lenguaje lo que les permitirá reflexionar sobre sus convenciones, mediante actividades que conlleven la lectura y escritura en situaciones y contextos lúdicos, estéticos, artísticos, de indagación, estudio u otros, así como desarrollar el pensamiento y las habilidades comunicativas. (p.17) De este modo, el documento hace énfasis, en cómo la adquisición de las habilidades de lecto-escritura permite al estudiantado algo más allá de leer y escribir, sino que también le permite expresarse, identificarse y plantearse con sus propias creencias, así mismo, pone a reflexionar al docente acerca de lo que debe lograr en el alumno y cómo su forma de trabajo influirá en la adquisición de estas habilidades, de este modo, el profesorado adapta su forma de trabajo, las estrategias y metodologías al contexto grupal del estudiantado, recuperando sus fortalezas, necesidades, habilidades motrices e intelectuales. 
+
+# Objetivo general:
+Documentar los aspectos teórico-metodológicos sobre la lectoescritura, a partir del análisis de los planes y programas de estudio de la NEM, para obtener información relevante desde el punto de vista del profesorado de primer grado de primaria durante el ciclo escolar 2023-2024 en las escuelas primarias “Emiliano Zapata” y “Lázaro Cárdenas”.
+
+## Objetivos específicos: 
+
+1.- Exponer las principales posturas pedagógicas: sintéticas y analíticas que sustentan el aprendizaje de la lectura y escritura por parte del profesorado.
+
+2.- Conocer las opciones metodológicas que utiliza el profesorado de primer grado de primaria así como su importancia para la adquisición de la lecto-escritura con respecto a la NEM.
+
+3.- Describir los desafíos que el profesorado de primer grado de primaria enfrentan para trabajar la lecto-escritura a través de la Nueva Escuela Mexicana y del análisis de las opiniones del profesorado.
+
+
+## Pregunta de investigación 
+
+¿Cuáles son los desafíos percibidos por parte del profesorado acerca de las metodologías para la adquisición de la lectoescritura en primer grado de primaria enfocado en la Nueva Escuela Mexicana?
+
+# Marco teórico
+
+***1.- La lectoescritura en la Nueva Escuela Mexicana.***
+
+**1.1 Definición de lectoescritura**
+
+La lecto-escritura es un proceso cognitivo complejo que engloba leer y escribir de manera interrelacionada. No se limita a la decodificación de palabras, sino que implica interpretar, analizar y sintetizar información de manera efectiva.
+
+**1.2 Definición de leer y de escribir.** 
+
+La lectura implica adquirir habilidades para identificar palabras, comprender significados e interpretar textos para obtener información y disfrute. En la escritura, aprenden a expresar ideas mediante la producción de textos escritos.
+Ambas habilidades son críticas para el aprendizaje en todas las disciplinas y contribuyen al desarrollo integral de los estudiantes.
+
+**1.3 La alfabetización en la Nueva Escuela Mexicana.**
+Enfoque constructivista (SEP 2023).
+La integración de tecnología y un enfoque holístico que va más allá de la decodificación de palabras. 
+(SEP 2023) Desarrollar habilidades socioemocionales a través de la lectura y la escritura, promoviendo la empatía y la comprensión interpersonal (pag. 17).
+
+***2. Metodologías de lecto-escritura***
+
+**2.1 Silábica:** El método silábico se establece como un proceso sencillo y breve pero efectivo, que propone la enseñanza primero de las vocales, consonantes las mismas que se van combinando entre ellas formando sílabas mixtas, diptongos, triptongos y por último a las cuatro sílabas que forman nuevas palabras y oraciones.
+
+**2.2 Mardel:** El método mardel que fue elaborado por “la maestra de la compu” Marigel Martínez Cardel consiste en el uso de estrategias lúdicas y creativas para el desarrollo de la alfabetización de los niños.
+
+**2.3:Global:** Rosano et al. (2011) al método global lo caracteriza de la
+manera más sencilla que podemos interpretar lo divide en 4 aspectos como la capacidad imitativa, la capacidad de ver y actuar del niño; el tipo de inteligencia; la ubicación en el tiempo y el espacio terminando con el dominio del esquema corporal.
+
+***3. Lecto-escritura y los campos formativos***
+
+**3.1 Inconvenientes**
+
+**3.2 Importancia**
+
+**3.3 Estrategias**
+
+***4- La finalidad específica de la lectoescritura en primaria.***
+
+**4.1 Motricidad fina**
+
+**4.2 Beneficios de la lecto-escritura**
+
+**4.3 Habilidades que se desarrollan**
+
+# III. Aproximación metodológica
+
+## **3.1 Método**
+
+Para abordar la perspectiva del profesorado de primer grado de educación primaria sobre la lecto-escritura en la Nueva Escuela Mexicana (NEM), se llevará a cabo un estudio cualitativo de enfoque descriptivo. Este diseño permitirá una comprensión profunda de las percepciones, prácticas y desafíos experimentados por los docentes en este contexto específico.
+
+Según Iño (2018) “La investigación cualitativa es un proceso interpretativo de indagación basado en distintas tradiciones metodológicas que examina un problema humano o social.” La presente investigación es de tipo cualitativa dado que nuestra problemática requiere analizar una cuestión social en los grupos de primer año de primaria.
+
+De igual manera, su principal característica es abordar estudios en contextos específicos desde una perspectiva holística (Iño, 2018), es decir, el método con el que se abordará, refiere a que debemos tomar toda la información que recabamos acerca de la vinculación de la Nueva Escuela Mexicana y la lectoescritura, la cual, será analizada para señalar sus particularidades, y finalmente cumplir con el objetivo de la investigación: documentar los aspectos teórico-metodológicos sobre la lectoescritura, a partir del análisis de los planes y programas de estudio de la NEM.
+
+## **3.2 Enfoque** 
+
+De acuerdo con Guillen (2019):  “El enfoque fenomenológico surge como una respuesta al radicalismo de lo objetivable. Se fundamenta en el estudio de las experiencias de vida, respecto de un suceso, desde la perspectiva del sujeto.” Para nuestra investigación decidimos ocupar este enfoque para analizar y describir sobre el fenómeno de la lecto-escritura en el primer grado de primaria y cómo es que se está llevando a cabo dentro del nuevo plan de estudios de la Nueva Escuela  Mexicana. 
+
+Según Husserl (1998), este enfoque “es un paradigma que pretende explicar la naturaleza de las cosas, la esencia y la veracidad de los fenómenos. El objetivo que persigue es la comprensión de la experiencia vivida en su complejidad [...]” Por lo que nuestro objetivo al utilizar este enfoque, es explicar la manera en la que se están abordando las nuevas estrategias de enseñanza de la lecto-escritura con el primer grado de primaria. 
+
+## **3.3 Alcance**
+
+El alcance descriptivo en una investigación de método cuantitativo, según Galarza (2020) “busca realizar estudios de tipo fenomenológicos o narrativos constructivistas, que busquen describir las representaciones subjetivas que emergen en un grupo humano sobre un determinado fenómeno.”  Es decir, busca especificar aquellas percepciones, características, propiedades del sujeto o grupo que se llevará al análisis.
+
+Por tal motivo, nuestra investigación tiene este alcance descriptivo, debido a que busca recoger información acerca de la perspectiva de las docentes de primer grado de primaria en torno a la enseñanza de la lectoescritura con el nuevo plan y programas de estudio de la Nueva Escuela Mexicana (NEM) en distintos contextos educativos.
+
+## **3.4 Participantes**
+
+Quienes participan se caracterizan por ser profesores/as frente a grupo y se desempeñan en primer grado de educación primaria que trabajan en escuelas que han adoptado los principios y directrices de la Nueva Escuela Mexicana. Se buscará diversidad en términos de experiencia docente, formación académica y contexto socioeconómico.
+
+## **3.5 Muestra **
+
+La muestra seleccionada para este estudio está compuesta por tres profesoras de primer grado de educación primaria de la escuela "Lázaro Cárdenas del Río" y dos profesoras de primer grado de educación primaria de la escuela "Emiliano Zapata". Todas ellas ofrecen perspectivas valiosas y significativas sobre la implementación de la lectoescritura en el marco de la Nueva Escuela Mexicana (NEM).
+
+## **3.6 Instrumento**
+
+Cuestionario, el cual es un “instrumento utilizado para recoger de manera organizada la información que permitirá dar cuenta de las variables que son de interés en cierto estudio, investigación, sondeo o encuesta” (Casas, Repullo y Donado, 2003).
+
+## **3.6.1 Elaboración**
+
+Mediante la técnica de la encuesta, se realizará un cuestionario que se aplicará de manera individual a las profesoras participantes para explorar a profundidad sus experiencias, percepciones y prácticas relacionadas con la lectoescritura en la Nueva Escuela Mexicana. Las preguntas se diseñaron de manera abierta para permitir respuestas detalladas y fueron guiadas a través de la organización de Cisterna (2005).
+
+Así mismo, se establecieron categorías y subcategorías para una mejor organización de los constructos más relevantes de nuestra investigación, los cuales son la base de nuestro instrumento.
+
+## **3.6.2 Validación de los instrumentos**
+
+Para llevar a cabo la validación del instrumento, solicitamos la colaboración del Dr. Román Castro Miranda, docente perteneciente a la institución en la cual cursamos nuestros estudios, Benemérita Escuela Normal Veracruzana "Enrique C. Rébsamen". Este profesional examinó exhaustivamente todas las preguntas que habíamos diseñado, realizando correcciones y proporcionando retroalimentación desde una perspectiva de crítica constructiva. 
+Posteriormente, se implementaron las modificaciones sugeridas para asegurar la validación integral del instrumento. El objetivo de este proceso era garantizar que el instrumento validado estuviera listo para avanzar a la siguiente etapa, que corresponde al pilotaje.
+
+## **3.6.3 Pilotaje**
+
+El instrumento fue aplicado como prueba piloto a docentes de primer grado de la escuela primaria Frida Kahlo ubicada en Las Joyas, Lagos de Puente Moreno, Ver. con clave 30EPR3977Q. Respecto al contexto de la institución es bueno, puesto que se ubica en una buena zona del puerto de Veracruz. 
+
+Los docentes que realizaron la prueba piloto tienen edades de 45 a 55 años de edad con un promedio de 20 años de servicio frente a grupo. 
+
+## **3.6.4 Aplicación**
+
+El cuestionario fue enviado, en formato dígital por la plataforma Google Forms, a las docentes titulares de primer grado de las escuelas “Emiliano Zapata” en el municipio de Xalapa y “Lázaro Cárdenas del Río” en Banderilla, al finalizar la segunda jornada de intervención, el día 8 de diciembre. 
+
+## **3.7. Análisis de resultados.**
+
+Una vez aplicado el instrumento se concentró la información recopilada para llevar a cabo un análisis e interpretación de resultados mediante la triangulación de datos,  que, de acuerdo a Hernandez Sampieri (2007) es el procedimiento el que genera el entendimiento de un fenómeno sujeto a estudio, así como también la plataforma de RStudio para la creación de nubes de palabras, lo cual nos ayudará a plantear las conclusiones de nuestra investigación, acerca de los retos y desafíos que presentan las profesoras encuestadas en torno a la enseñanza de la lecto-escritura en el nuevo plan y programas de estudios de la Nueva Escuela Mexicana.  
+
+Primero se relacionó cada pregunta que teníamos en nuestro cuestionario con la subcategoría a la que correspondía, ya que desde un inicio se elaboró de esta forma teniendo como resultado información sobre cada una. 
+
+Posteriormente, mediante la utilización de la plataforma digital de RStudio y las paqueterías, “tidytext” (Silge et al, 2016), “wordcloud” (Fellows, 2018), “dplyr” (Wickham  & Francois 2016) y “csv” (Cancino, 2022),  se elaboraron nubes de palabras que corresponden a cada una de las preguntas y subcategorías para tener más digerible los datos y proceder a escribir nuestros resultados. 
+
+
+# IV. Resultados. 
+De acuerdo a las respuestas obtenidas de nuestro instrumento y a los datos arrojados gracias a la elaboración de una nube de palabras por subcategoría, podemos decir que, para las docentes de primer grado consideran que es importante la enseñanza de la lecto-escritura debido a que de esta forma pueden desarrollar conocimientos y habilidades que son base en la  vida de los alumnos así como también de sus sentimientos. 
+
+
+```{r,message=FALSE, warming=FALSE, echo=FALSE}
+install.packages("tidytext")
+library(tidytext)
+```
+
+```{r,message=FALSE, warming=FALSE, echo=FALSE}
+install.packages("wordcloud")
+library(wordcloud)
+```
+
+```{r,message=FALSE, warming=FALSE, echo=FALSE}
+install.packages("dplyr")
+library(dplyr)
+```
+
+```{r,message=FALSE, warming=FALSE, echo=FALSE, echo=FALSE}
+install.packages("csv")
+library(csv)
+```
+
+```{r, echo=FALSE}
+textos1<-read.csv("P1.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stopwordsP1.csv")
+```
+
+```{r,echo=FALSE}
+word_freq1 <- textos1 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,echo=FALSE}
+wordcloud(words = word_freq1$word,
+          freq = word_freq1$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+**Figura 1.** Nube de palabras donde se observan las palabras que se repiten con más frecuencia en la subcategoría 2. Importancia de la lectoescritura en primer grado. 
+
+
+Con respecto a la metodología, la mayoría ha empleado el método global, debido a que, con los años de experiencia, han observado un mejor avance, ya que facilita el aprendizaje de la lectura con mayor fluidez y claridad. Por lo que, les resulta útil que sea la que mejor se ajuste al momento de la elaboración de los proyectos del Plan y Programas de la NEM. 
+
+
+
+```{r, echo=FALSE}
+textos3<-read.csv("P3y4.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stopwordsP1.csv")
+```
+
+```{r, echo=FALSE}
+word_freq3 <- textos3 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq3$word,
+          freq = word_freq3$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+**Figura 2.** Nube de palabras donde se observan las palabras que se repiten con más frecuencia en la subcategoría 1. Metodologías utilizadas por las profesoras de primer grado. 
+
+```{r, echo=FALSE}
+textos2<-read.csv("P2.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stopwordsP1.csv")
+```
+
+```{r, echo=FALSE}
+word_freq2 <- textos2 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq2$word,
+          freq = word_freq2$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+**Figura 3.** Nube de palabras donde se observan las palabras que se repiten con más frecuencia en la subcategoría 4. Enfoque sobre la lecto-escritura desde la NEM.  
+
+
+Por otro lado, nuestros resultados convergen en que los retos a los que se enfrentan durante la enseñanza de la lecto-escritura son, involucrar a los padres de familia al momento de desarrollar el trabajo, tanto en casa como en la escuela ya que los alumnos aún no son independientes del todo así como también la implementación de los PDA y los Libros de Texto Gratuitos (LTG) al proyecto. 
+
+
+```{r, echo=FALSE}
+textos4<-read.csv("P5.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stopwordsP1.csv")
+```
+
+
+```{r, echo=FALSE}
+word_freq4 <- textos4 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq4$word,
+          freq = word_freq4$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+**Figura 4.** Nube de palabras donde se observan las palabras que se repiten con más frecuencia en la subcategoría 3. Desafíos a los que se está enfrentando el profesorado de primer grado.
+
+
+Por último nos mencionan que, los cuatro campos formativos se encuentran interrelacionados con la lectura y escritura para lograr un aprendizaje en los niños, ya que cada contenido engloba grafías, palabras, frases, propiciando así la reflexión, la expresión oral,  escrita e incluso artística. 
+
+
+```{r, echo=FALSE}
+textos5<-read.csv("P6.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stopwordsP1.csv")
+```
+
+```{r, echo=FALSE}
+word_freq5 <- textos5 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+  
+```{r, echo=FALSE}
+wordcloud(words = word_freq5$word,
+          freq = word_freq5$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+**Figura 5.** Nube de palabras donde se observan las palabras que se repiten con más frecuencia en la subcategoría 5. Relación de los campos formativos de la Nueva Escuela Mexicana con la enseñanza de la lectoescritura.
+
+
+# V. Conclusiones 
+
+La realización de nuestro estudio acerca de la perspectiva que tiene el profesorado de primer grado de primaria acerca de la lecto-escritura en el marco de la Nueva Escuela Mexicana (NEM) ha sido un experiencia demasiado lucrativa para nuestra formación académica. 
+
+En el desarrollo del trabajo de investigación destacamos la importancia de la lecto-escritura en educación primaria, recabamos información sumamente necesaria para comprender el proceso de enseñanza de lecto-escritura en la fase 3 de la educación básica. Principalmente acerca de las posturas pedagógicas y de la metodologías más utilizadas al llevar a cabo este proceso y cómo éstas han sido implementadas en el nuevo plan y programas de estudios implementado por el sistema educativo.
+
+Del mismo modo, nos permitió visualizar el punto de vista de cada docente al emplear diversas metodologías de enseñanza de lecto-escritura en torno a la NEM y su nueva forma de trabajo en este ciclo escolar 2023-2024 que ha representado cambios significativos en su labor docente. Dentro de estas metodologías destacaron principalmente la fonética, silábica, la Mardel y la global, siendo esta última la que más eficacia ha tenido a la hora de ponerla en práctica.
+
+Igualmente, conocimos parcialmente los principales desafíos a los que se enfrenta el profesorado al desarrollar la lectura y escritura, en los cuáles estaban inmersos los alumnos, padres y madres de familia, docentes y la reciente implementación del plan de estudios. 
+
+Ante los hallazgos de nuestra investigación nace la necesidad de adoptar un enfoque integral y colaborativo para mejorar la enseñanza de la lecto-escritura en la NEM, debido a que es el plan de estudios por el cuál se estará rigiendo nuestra labor docente, principalmente en un fenómeno tan importante e indispensable cómo lo es la alfabetización en primer grado, siendo esta la base del alumno para seguir adquiriendo conocimientos a lo largo de su vida académica.
+
+Por otra parte, es crucial aportar sobre nuestra ardua labor al realizar este trabajo investigativo, las dificultades que surgieron y cómo aportó significativamente a nuestra formación docente. Principalmente, para iniciar a trabajar tuvimos que plantearnos una problemática que presentara un gran impacto en el grado inicial de educación primaria, es por ello que la lecto-escritura en la NEM, nos causó gran revuelo, debido a que se tiene gran desconocimiento de este plan de estudios debido a su nueva implementación y más aún con el fenómeno elegido.
+
+Una vez elegido el tema, implicó muchas horas de investigación, trabajo en equipo y compromiso para la búsqueda y selección de información relevante para fundamentar teóricamente nuestro proyecto.  De igual forma, al ser una labor por academia, nos permitió tener distintos puntos de vista acerca de lo que iba incluir nuestro documento. 
+
+Así mismo, implicó un esfuerzo latente para coordinarnos, adaptar nuestros tiempos para dedicarle el mayor espacio posible a la realización del trabajo, fue un reto que demandó gran empeño de nuestra parte. Sin embargo, nos permitió adquirir mayor conocimiento en el ámbito investigativo, así cómo también logró desarrollar habilidades y actitudes de gran relevancia en nuestra formación.
+
+
+## Referencias
+
+- Berko, J., Bernstein, N. (2010). Desarrollo del lenguaje. Madrid: Pearson Educación. Recuperado 14 de noviembre de 2023, en https://revistas.uma.es/index.php/revistaISL/article/view/10943/11141
+
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. Assessment in Education: Principles, Policy & Practice, 5(1), 7-74.
+
+- Cancino, P. (01 de mayo del 2022). Leer en CSV en R y RStudio. RPubs by RStudio. https://rpubs.com/pabloecancino/leer_csv_en_R
+
+- Cisterna Cabrera, F. (2005). Categorización y triangulación como procesos de validación del conocimiento en investigación cualitativa. Theoria, 14 (1), 61-71. 
+
+- Comisión Nacional para la Mejora continua de la Educación MEJOREDU. (2023). Los campos formativos para comprender y transformar nuestra realidad. Recuperado 13 de noviembre de 2023, de https://www.mejoredu.gob.mx/images/publicaciones/fasciculo3_aprendamos-comunidad.pdf 
+
+- Cristóbal, S. (s. f.). La metodología de la lectoescritura en educación infantil y su influencia en el aprendizaje lectoescritor de los alumnos. Universidad de Valladolid.
+
+- Dislexia: qué es, síntomas, tipos y ejercicios para disléxicos. (2021, 18 noviembre). neuron up. Recuperado 13 de noviembre de 2023, de https://www.neuronup.com/estimulacion-y-rehabilitacion-cognitiva/trastornos-del-neurodesarrollo/dislexia-que-es-sintomas-tipos-y-ejercicios-para-dislexicos/ 
+
+- Fellows, I. (2018). wordcloud: Word Clouds. R package version 2.6. Recuperado desde https:// CRAN . R -
+
+- Galarza. C. (2020). Los Alcances de una investigación. Cienciamerica. Vol. 9 (3).  http://dx.doi.org/10.33210/ca.v9i3.336
+
+- González, M. (2020). Habilidades para desarrollar la lectoescritura en los niños de educación primaria. Revista estudios en educación, 48-49.
+
+- Guevara, G. (2000), Draft 1, Habilidades Básicas [Paráfrasis], (Manuscrito no publicado). México: Facultad de Filosofía, U. V.
+
+- Hernández, J. A. G. (2023, 28 marzo). Campo formativo Lenguajes: Resumen con las ideas principales. Docentes al Día. https://docentesaldia.com/2023/02/17/campo-formativo-lenguajes-resumen-con-las-ideas-principales/ 
+
+- Hernández Sampieri, R.; Fernández-Collado, C.; Baptista Lucio, P. (2007) Metodología de la investigación. México: McGraw-Hill Interamericana.
+
+- Johnson, D. W., & Johnson, R. T. (1999). Learning together and alone: Cooperative, competitive, and individualistic learning. Allyn & Bacon. 
+
+- Mackay Castro, R., Franco Cortazar, D. E., & Villacis Pérez, P. W. (2018). El pensamiento crítico aplicado a la investigación. Universidad y Sociedad, 10(1), 336-342. http://rus.ucf.edu.cu/index.php/rus
+
+- McLaughlin, M., & Allen, M. B. (2009). Guided comprehension: A teaching model to help students read with meaning. Scholastic.
+
+- Rodríguez Abreu, M. (2010). Las bases perceptivo-motrices en primaria: la percepción espacial. http://www.efdeportes.com/ Revista Digital, 15(146). https://www.efdeportes.com/efd146/las-bases-perceptivo-motrices-en-primaria.htm
+
+- Sánchez, C. (2009, 14 diciembre). LA IMPORTANCIA DE LA LECTOESCRITURA EN EDUCACIÓN INFANTIL. Recuperado 14 de noviembre de 2023, de https://d1wqtxts1xzle7.cloudfront.net/32635146/etapas_lectoescritura_infantil-libre.pdf?1391592273=&response-content-disposition=inline%3B+filename%3DEtapas_lectoescritura_infantil.pdf&Expires=1704760440&Signature=JJkX6QVwCgegaAwgSJqttaYMiGa9LKaiUXf27QWzedCJZNACNazfWY8IzAfztWlgavlIoZojAOtIyFrI-pFWuDbKMU5EUd0qe06YNSSqvvhh4xxkngnqhoUfNzWRyMvc~MbzFaAibS0ZhGpgNmYq~wQUxBA0qhe8gCrj0UUMHJQlaS763xOa5ez7pnDbWZQPjGTh6wPkSZnQA7vUQNq-TVINnuQlyziEbQoepAhCtu5HOXyGFaRDVV7p0cQSR3I1~wrxlwuIiagfs-smKQAfivQE7og5sVfbLbpi9ZH96SKY-hL1woNskJ8QvjFQOHgRvNz2aX62MrjQv0uGZiTZug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
+
+- SEP. (2022). Avance del Contenido del Programa Sintético de la Fase 3. [Material en proceso de construcción]. 
+
+- SEP. (2023). Plan de Estudios para la educación preescolar primaria y secundaria. 
+
+- Silge et al, (2016). tidytext: Text Mining and Analysis Using Tidy Data Principles in R. Journal of Open Source Software, 1(3), 37.
+
+- Schavi Ferreiro, E (2017). Los sistemas de escritura en el desarrollo del niño.
+
+- So, H. J., & Brush, T. A. (2008). Student perceptions of collaborative learning, social presence and satisfaction in a blended learning environment: Relationships and critical factors. Computers & Education, 51(1), 318-336.
+
+- Tamayo, S. (2017). LA DISLEXIA Y LAS DIFICULTADES EN LA ADQUISICIÓN DE LA LECTOESCRITURA. Profesorado Revista de currículum y formación del profesorado, VOL.21.
+
+- Tomlinson, C. A. (2005). Grading and differentiating instruction: An overview. Theory into Practice, 44(3), 260-266.
+
+- Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press.
+
+- Wickham, H. & Francois, R. (2016), dplyr: A Grammar of Data Manipulation. R package, version 0.5.0
